@@ -4,7 +4,7 @@ https://youtu.be/T1YCHRyH7cs
 To Analyse and visualize the toss data of different teams at different stadiums
 # Steps:
 Read data
-Clean data by eliminating unwanted coloumns
+Clean data by eliminating unwanted columns
 Replace Null values(NA) by some values such as no result and Unknown city
 Correct team names if any entry errors
 Calculate and plot Number of Tosses Won by Each Franchise
