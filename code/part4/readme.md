@@ -33,9 +33,9 @@ If MI wins the toss
 
 If RCB wins the toss
 	opt_to bat at Chepauk stadium:
-		RCB is likely to win the match
+		RCB is likely to win the match.
 	opt_to field at Chepauk stadium:
-		RCB is likely to loose the match 
+		RCB is likely to loose the match.
 
 # Links:
 Here's the link for code in My GitHub Repository:
